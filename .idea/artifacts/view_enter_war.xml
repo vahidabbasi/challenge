@@ -1,0 +1,14 @@
+<component name="ArtifactManager">
+  <artifact type="war" name="view-enter:war">
+    <output-path>$USER_HOME$/Desktop/Vahid/community-answers/view-enter/target</output-path>
+    <properties id="maven-jee-properties">
+      <options>
+        <module>view-enter</module>
+        <packaging>war</packaging>
+      </options>
+    </properties>
+    <root id="archive" name="view-enter-1.0-SNAPSHOT.war">
+      <element id="artifact" artifact-name="view-enter:war exploded" />
+    </root>
+  </artifact>
+</component>
