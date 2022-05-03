@@ -7,14 +7,14 @@ Go to link below to access swagger documentation:
     
 ### use h2 Console 
   in the case you need to see the database, please H2 consol.
-  I have not disable it.
-    username: sa
-    password: password
+  I have not disabled it.
+
+  username: sa
+
+  password: password
   
     http://localhost:8080/h2-console
     
-
-
 
 # Celonis Programming Challenge
 

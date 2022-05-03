@@ -5,5 +5,6 @@
     <mapping directory="$USER_HOME$/Desktop/Vahid/spring-boot-swing" vcs="Git" />
     <mapping directory="$USER_HOME$/Desktop/Vahid/spring-mvc-async-progress" vcs="Git" />
     <mapping directory="$USER_HOME$/Desktop/Vahid/websocket-progress-bar" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$" vcs="Git" />
   </component>
 </project>
